@@ -1,0 +1,22 @@
+﻿  源.cpp
+C:\Users\ZJU01\Desktop\CAD\CAD\oula_op.h(1,1): warning C4828: 文件包含在偏移 0x267 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(5,25): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(84,37): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,50): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,74): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,74): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,98): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(127,98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,50): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,74): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,74): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,98): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\ZJU01\Desktop\CAD\CAD\源.cpp(128,98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 1440 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CAD.vcxproj -> C:\Users\ZJU01\Desktop\CAD\x64\Release\CAD.exe
